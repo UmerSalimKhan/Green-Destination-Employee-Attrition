@@ -1,0 +1,5 @@
+There are two app files for Streamlit. Both with unique structure.
+The app.py file runs with a defualt structure of one single column.
+While, the app_col.py executes in two columns for numerical data and 
+three colunmns for categorical data. 
+The model prediction is quite Reliable.
